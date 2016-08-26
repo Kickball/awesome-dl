@@ -10,3 +10,4 @@
 * [PyCast](https://github.com/sacert/PyCast) `Python`
 * [DSImgur](https://github.com/DiSiqueira/DSImgur) `Python` `MIT`
 * [Manager Tools DL](https://github.com/Kickball/manager-tools-dl) `Python` `MIT`
+* [youtube-dl](https://github.com/rg3/youtube-dl) `Python`
