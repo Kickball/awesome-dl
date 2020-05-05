@@ -75,6 +75,9 @@
 
 [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features. `C++` `Apache-2.0`
 
+[RedditDownloader](https://github.com/shadowmoose/RedditDownloader) - Scrapes Reddit to download media of your choice. `Python`
+
+
 ## Video
 
 ### CLI
