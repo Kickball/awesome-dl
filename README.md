@@ -14,6 +14,7 @@
     - [YouTube](#youtube)
     - [Courses](#courses)
   - [GUI](#gui)
+- [Messages](#messages)
 - [Downloader](#downloader)
   - [CLI](#cli)
   - [GUI](#gui)
@@ -114,6 +115,10 @@
 
 [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses `JS` `MIT`
 
+
+## Messages 
+
+[PetterKraabol](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - Download chat messages from past broadcasts on Twitch. `Python` `MIT`
 
 ## Downloader
 
